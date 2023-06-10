@@ -49,5 +49,5 @@ async def process_russian_food(message: Message):
 if __name__ == '__main__':
     executor.start_polling(dp, skip_updates=True)
        
-    
+#ttttt
   
